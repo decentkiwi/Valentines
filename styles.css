@@ -1,0 +1,12 @@
+.options {
+    color: cornflowerblue;
+}
+
+#vday_question {
+    color: palevioletred;
+
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
